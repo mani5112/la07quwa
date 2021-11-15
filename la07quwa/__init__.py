@@ -1,1 +1,1 @@
-from la07quwa import *
+from .function import *

@@ -1,1 +1,1 @@
-from function import imshow
+from la07quwa import *

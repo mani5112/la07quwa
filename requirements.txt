@@ -1,0 +1,20 @@
+
+ ###### You can write here which packages are necessary to
+ ######
+##You can specify the version using '=='. For example:
+from la07quwa import function as m
+
+import PIL
+
+import numpy as np
+
+image = PIL. Image. open("home.jpg")
+image_array = np. array(image)
+
+
+m.imshow(image_array,(400,300))
+
+numpy==1.21.2
+numpy
+Pillow
+ipywidgets
